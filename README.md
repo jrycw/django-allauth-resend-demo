@@ -1,0 +1,1 @@
+# django-allauth-resend-demo
